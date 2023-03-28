@@ -15,3 +15,26 @@ My name is Mashkhurbek Saidov and I am 23 years old. Half a year ago I graduated
 
 I believe that my ability to learn and to gain new skills will lead me through this path of becoming a proficient Frontend Developer.
 
+## Skills
+
+* HTML,CSS
+* Bootstrap
+* JavaScript(Basics)
+* Github
+---
+
+## Code Example
+
+function sum(a, b) {
+  return a + b;
+}
+
+let result = sum(1, 2);
+alert( result );
+
+---
+
+## Education
+
+* **University**:Tashkent University of Information Technologies
+
